@@ -229,7 +229,7 @@ A wizard to create a new module, and add its dependencies can be found
 at `File > New > Ceylon Module`.
 
 To change the imports of an existing module, you can select the module 
-in the Ceylon Explorer, got to `File > Properties`, and select the
+in the Ceylon Explorer, go to `File > Properties`, and select the
 `Ceylon Module` properties page.
 
 Under `File > Export... > Ceylon`, you'll find two very useful wizards:
